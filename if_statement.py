@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# TODO: use "argparse" to parse an argument named size of type int
+puzzle_size = None
+
+# TODO: use "argparse" to parse an argument named size of type int assigning it to variable puzzle_size
 
 
 
