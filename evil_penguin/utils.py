@@ -36,8 +36,9 @@ def print_output_decorator(func):
     def wrapped_func(*original_args, **original_kwargs):
         
         # TODO: implement me. You will need to call func passing the above params.
-        #       you will also need to call print at some point
+        #       you will also need to call print at some point.
+        #       you will need to modify the return statement below
 
-        return output
+        return None
 
     return wrapped_func
